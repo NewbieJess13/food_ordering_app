@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303256200724",
+    "firebase_url": "https://foodmonkey-300f2.firebaseio.com",
+    "project_id": "foodmonkey-300f2",
+    "storage_bucket": "foodmonkey-300f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303256200724:android:bcad1921418d81cf532901",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303256200724-i1hulh5ocnkjdhj3j8se579960kesfao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_ordering_app",
+            "certificate_hash": "9efd664d0cb220b61c6f5ee46810b58f47abad36"
+          }
+        },
+        {
+          "client_id": "303256200724-vpa9dbrkdr43ptvmaefvjksbohiev05o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7r4eU4s93dK0Ks2tP3uKJUEj-YJX3p7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303256200724-vpa9dbrkdr43ptvmaefvjksbohiev05o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
